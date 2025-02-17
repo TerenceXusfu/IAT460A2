@@ -1,0 +1,3 @@
+import random
+import ColabTurtle.Turtle as t
+from IPython.display import clear_output
